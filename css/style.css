@@ -1,0 +1,102 @@
+body,
+head,
+html{
+    margin: 0 auto;
+    padding: 0;
+    font-size: 18px;
+}
+
+body{
+    width: 996px;
+    height: 661px;
+    background-color:aliceblue;
+}
+.cabecalho{
+    display: block;
+    width: 996px;
+    margin: 0;
+    font-family: sans-serif;
+    clear: both;
+    align-content: center;
+}
+
+.titulo{
+    text-decoration: none;
+    width: 100%;
+    text-align: center;
+}
+.titulo h1{
+    background-color: goldenrod;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.corpo{
+    width: 996px;
+}
+
+.banner{
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.banner img{
+    width: 996px;
+    height: 400px;
+    opacity: 80%;
+}
+
+.botoes{
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+
+
+.menu{
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    padding: 20px;
+    background-color: goldenrod;
+}
+
+.menu ul li,
+.menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu ul li{
+	display: flex;
+}
+
+.menu ul li a{
+    display: block;
+    color:black;
+    padding: 10px 10px;
+}
+
+.artigo{
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    width: 200px;
+     
+}
+
+.videos{
+    margin: 0;
+    padding: 0;
+    float: right;
+    width: 400px;
+
+}
+
+
