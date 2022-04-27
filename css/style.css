@@ -86,8 +86,8 @@ img{
 .artigo{
     margin: 0;
     padding: 20px;
-    display: flex;
-    width: 200px;
+    display: inline-block;
+    width: 300px;
      
 }
 
